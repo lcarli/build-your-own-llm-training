@@ -1,6 +1,6 @@
 # Build Your Own LLM — Laboratório Interativo
 
-[Português](readme-pt.md) | [English](readme-en.md) | [Français](readme-fr.md)
+[English](README.md) | **Português** | [Français](readme-fr.md)
 
 **Convenção deste projeto:** comentários, docstrings e mensagens do código devem ser sempre escritos em inglês. A interface usa inglês; os guias e os textos de treinamento mantêm seus idiomas.
 
