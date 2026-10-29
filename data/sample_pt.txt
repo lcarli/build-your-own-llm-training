@@ -1,0 +1,47 @@
+O aprendiz de letras
+
+Numa cidade pequena, à beira de um rio largo e lento, havia uma biblioteca que ficava aberta até tarde. Numa mesa perto da janela, um programa de computador tentava aprender a escrever. Ele não tinha olhos nem mãos. Tinha apenas uma fita comprida de texto e uma pergunta que repetia sem parar: qual é a próxima letra?
+
+No começo, o programa não sabia nada. Para ele, todas as letras eram igualmente prováveis. Depois de um "q" podia vir um "z", um espaço ou uma vírgula, tanto fazia. Quando tentava escrever uma frase, saía uma sopa de caracteres sem sentido. A bibliotecária, que acompanhava tudo com curiosidade, sorriu e disse que todo aprendiz começa assim.
+
+O primeiro passo foi dar um número a cada caractere. A letra "a" virou um número, o espaço virou outro, a vírgula ganhou o seu próprio. O programa não entendia palavras, mas sabia fazer contas, e números ele sabia somar e multiplicar. Assim, o texto inteiro se transformou numa fila enorme de números, um atrás do outro, como contas num colar.
+
+Depois, o programa passou a olhar para pequenas janelas do texto. Em cada janela, o jogo era sempre o mesmo: ver um caractere e tentar adivinhar o seguinte. Se a janela mostrava "cas", a resposta certa podia ser "a", como em "casa", ou "o", como em "caso". O próprio texto já trazia todas as respostas. Bastava esconder a próxima letra e conferir depois.
+
+Cada caractere ganhou também uma pequena lista de números que o programa podia ajustar. No início, essas listas eram sorteadas ao acaso. A letra "a" não se parecia com a letra "e", e o espaço não se parecia com nada. Mas, cada vez que o programa errava um palpite, ele mexia um pouquinho nesses números, sempre na direção que diminuía o erro.
+
+O erro tinha nome: perda. Quando o programa dava uma chance alta para a letra certa, a perda era pequena. Quando dava uma chance quase nula, a perda era enorme, como a surpresa de quem abre a porta esperando o carteiro e encontra um elefante. O objetivo era simples de dizer e difícil de cumprir: ficar cada vez menos surpreso.
+
+Nas primeiras centenas de tentativas, a perda caiu depressa. O programa descobriu que depois de um ponto final quase sempre vem um espaço, e que depois desse espaço muitas vezes vem uma letra maiúscula. Descobriu que o "q" quase sempre pede um "u", e que o "ç" costuma aparecer antes de "ão" ou de "a". Ninguém escreveu essas regras para ele. Elas apareceram sozinhas, de tanto contar e corrigir.
+
+A bibliotecária anotava tudo num caderno de capa verde. Na primeira página, escreveu: "O aprendiz só olha para a última letra. Ele não lembra o que veio antes." Era verdade. Se o programa via um "e", não sabia se estava no meio de "pedra", de "verde" ou de "ele". Para ele, todo "e" era igual a qualquer outro "e". Por isso, as frases que inventava tinham pedaços que pareciam palavras, mas o conjunto não fazia sentido.
+
+Mesmo assim, havia progresso. As sílabas começaram a soar como português. Apareceram "que", "de", "não", "para" e "com" no meio de combinações estranhas. As vírgulas surgiam em lugares quase razoáveis. Os parágrafos terminavam com ponto. Um visitante distraído, olhando de longe, poderia achar que era um texto de verdade, escrito por alguém com muita pressa e pouca paciência.
+
+Numa noite de chuva, um menino entrou na biblioteca para fugir do temporal. Viu a tela acesa e perguntou o que o programa estava fazendo. A bibliotecária explicou que ele estava aprendendo a prever a próxima letra. O menino achou aquilo pouco. "Eu também sei fazer isso", disse. "Depois de bom vem dia." A bibliotecária riu e concordou: ele sabia porque lembrava de muitas palavras ao mesmo tempo, e o programa só lembrava de uma letra.
+
+O menino quis saber como o programa sorteava a letra seguinte. A bibliotecária mostrou uma tabela com as chances de cada caractere. Depois de um espaço, a letra "a" tinha uma chance boa, o "d" e o "e" também, e o "x" tinha uma chance pequenina. O programa não escolhia sempre a letra mais provável. Ele sorteava, respeitando as chances. Por isso, cada vez que escrevia, o texto saía um pouco diferente.
+
+Havia um botão chamado temperatura. Com a temperatura baixa, o programa ficava cauteloso e escolhia quase sempre a letra favorita. O texto ficava repetitivo, como alguém que só sabe uma frase e a diz o tempo todo. Com a temperatura alta, o programa ficava ousado e dava mais chance às letras raras. O texto ficava mais variado, mas também mais confuso. O menino passou meia hora mexendo no botão, rindo das frases que apareciam.
+
+Antes de ir embora, o menino fez uma última pergunta: como saber se o programa estava aprendendo de verdade ou só decorando o texto? A bibliotecária mostrou que uma parte do texto ficava guardada, escondida durante o treino. De tempos em tempos, o programa tentava prever as letras dessa parte que nunca tinha visto. Se a perda também caía ali, era sinal de que ele tinha aprendido algo que valia para textos novos.
+
+A chuva passou e a cidade ficou em silêncio. O programa continuou trabalhando a noite inteira. Cada passo era pequeno: olhar um punhado de janelas, medir o erro, ajustar os números, repetir. Mil passos depois, a perda já não caía tão depressa. Dois mil passos depois, ela quase não se mexia. O aprendiz tinha chegado perto do limite do que é possível saber olhando só para uma letra.
+
+Na manhã seguinte, a bibliotecária leu as anotações e escreveu uma conclusão no caderno verde. "Para escrever melhor, ele precisa olhar para trás. Precisa lembrar das letras anteriores e decidir quais delas importam." Ela sabia que existiam programas maiores que faziam exatamente isso. Eles olhavam para muitas letras ao mesmo tempo, davam mais atenção a umas do que a outras e, com isso, escreviam frases inteiras com sentido.
+
+Mas ela também sabia que esses programas grandes começavam do mesmo jeito. Também transformavam texto em números. Também davam a cada pedaço uma lista de números ajustáveis. Também mediam a própria surpresa e corrigiam os números, passo a passo, milhões de vezes. A diferença estava no tamanho: mais texto, mais números, mais memória e muito mais contas.
+
+Algumas semanas depois, o menino voltou com uma turma inteira da escola. Cada estudante ganhou um computador comum e um caderno. A bibliotecária propôs um desafio: construir o próprio aprendiz de letras, peça por peça. Primeiro, o tradutor de letras em números. Depois, as janelas de treino. Em seguida, as listas de números de cada letra, a tabela de chances, o sorteio, a medida do erro e, por fim, o laço de treino.
+
+Os estudantes erraram muito no caminho. Um esqueceu os espaços no começo de uma linha e o computador reclamou. Outra colou o código num arquivo errado. Um terceiro trocou as aspas retas por aspas curvas, copiadas de um documento, e o computador não entendeu nada. Cada erro vinha com uma explicação, e cada explicação ensinava alguma coisa. No fim da tarde, todos os aprendizes da turma estavam escrevendo suas sopas de letras.
+
+Quando o treino terminou, os estudantes compararam os textos. Os primeiros, de antes do treino, eram ruído puro. Os do meio já tinham espaços e sílabas. Os últimos pareciam um idioma estrangeiro com sotaque de português. A turma aplaudiu. Não era poesia, mas era o começo de tudo: um programa pequeno, rodando num computador comum, que aprendeu sozinho, letra por letra, a imitar um pouco da nossa língua.
+
+Um dos estudantes perguntou por que o aprendiz precisava de tantas repetições. A bibliotecária comparou o treino com aprender a andar de bicicleta: ninguém aprende lendo uma explicação uma única vez. É preciso tentar, cair, ajustar o equilíbrio e tentar de novo. O aprendiz de letras fazia o mesmo, só que milhares de vezes por minuto, e cada queda era apenas um número um pouco maior do que deveria ser.
+
+Outra estudante quis saber se o aprendiz entendia o que escrevia. A bibliotecária pensou um pouco antes de responder. Disse que ele conhecia muito bem quais letras costumam andar juntas, mas não sabia o que era uma casa, uma chuva ou um rio. Ele só tinha visto essas palavras como sequências de números. Entender o mundo, explicou, é uma conversa bem mais longa, e talvez nem caiba numa biblioteca.
+
+O menino, que agora já se sentia um especialista, resumiu a história para os colegas: primeiro os números, depois as janelas, depois as chances, o sorteio e o erro, e então repetir até cansar. Os colegas acharam graça, mas anotaram. Alguns prometeram voltar na semana seguinte para ensinar o aprendiz a olhar para trás.
+
+A bibliotecária fechou o caderno verde e apagou as luzes. Na tela, o aprendiz ainda escrevia, sem pressa, a próxima letra.

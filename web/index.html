@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Build Your Own LLM — Interactive Lab</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">LLM</div>
+      <div>
+        <h1>Build Your Own LLM</h1>
+        <div class="subtitle">Interactive Lab · everything runs on your computer</div>
+      </div>
+    </div>
+    <div class="badges">
+      <span id="train-badge" class="badge badge-train" hidden>Training…</span>
+      <span id="mode-badge" class="badge">Build Mode</span>
+      <span id="corpus-badge" class="badge">Corpus</span>
+      <span id="torch-badge" class="badge">PyTorch</span>
+    </div>
+  </header>
+  <div id="banners" class="banners"></div>
+  <nav id="lab-nav" class="lab-nav" aria-label="Labs"></nav>
+  <main class="split">
+    <section id="guide" class="pane guide-pane" aria-label="Lab guide">
+      <div class="loading">Loading…</div>
+    </section>
+    <section id="viz" class="pane viz-pane" aria-label="Visualization"></section>
+  </main>
+  <div id="toasts" class="toasts" aria-live="polite"></div>
+  <script src="md.js"></script>
+  <script src="charts.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

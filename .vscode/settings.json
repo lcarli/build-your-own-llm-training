@@ -1,0 +1,4 @@
+{
+    // Save files automatically so "Verificar" always reads the latest code.
+    "files.autoSave": "afterDelay"
+}
